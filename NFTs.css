@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(33, 8, 55);
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.NFTs{
+    font-size: 100px;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    
+}
+
